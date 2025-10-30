@@ -1,5 +1,4 @@
-# Todo-CLI
-A simple Todo CLI with the use of javascript.
+
 # CLI Todo
 
 A simple command-line Todo application built with Node.js and Commander. Stores todos in a local 'todos.json' file.
